@@ -7,3 +7,9 @@ You can use it with Ardour (tested with Ardour 5.5.12). Put the file on `~/.conf
 Ardour will be able to receive Program Control Change from the Keyboard/Synthesizer or to set the patches on the Keyboard/Synthesizer based on the *Patch Selector* window.
 
 This settings will be stored within the Session and the Keyboard/Synthesizer will be reconfigured every time the Session is reopened.
+
+
+## Tip on Creating Midnam file
+
+How to validate the XML: https://manual.ardour.org/appendix/midnam-reference/
+
