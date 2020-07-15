@@ -1616,6 +1616,67 @@
 </PatchBank>
 
 
+<PatchBank Name="Drum Kits Preset">
+    <MIDICommands>
+        <ControlChange Control="0" Value="86"/>
+        <ControlChange Control="32" Value="64"/>
+    </MIDICommands>
+<PatchNameList>
+<Patch Number="0001" Name="Dr:001 Pop Kit 1" ProgramChange="0"/>
+<Patch Number="0002" Name="Dr:002 Rock Kit" ProgramChange="1"/>
+<Patch Number="0003" Name="Dr:003 Brush Jz Kit" ProgramChange="2"/>
+<Patch Number="0004" Name="Dr:004 HipHop Kit" ProgramChange="3"/>
+<Patch Number="0005" Name="Dr:005 R&amp;B Kit" ProgramChange="4"/>
+<Patch Number="0006" Name="Dr:006 Dance Kit 1" ProgramChange="5"/>
+<Patch Number="0007" Name="Dr:007 Dance Kit 2" ProgramChange="6"/>
+<Patch Number="0008" Name="Dr:008 Dance Kit 3" ProgramChange="7"/>
+<Patch Number="0009" Name="Dr:009 Pop Kit 2" ProgramChange="8"/>
+<Patch Number="0010" Name="Dr:010 Dance Kit 4" ProgramChange="9"/>
+<Patch Number="0011" Name="Dr:011 Ambi Pop 1" ProgramChange="10"/>
+<Patch Number="0012" Name="Dr:012 Ambi Rock" ProgramChange="11"/>
+<Patch Number="0013" Name="Dr:013 Ambi BrushJz" ProgramChange="12"/>
+<Patch Number="0014" Name="Dr:014 Ambi HipHop" ProgramChange="13"/>
+<Patch Number="0015" Name="Dr:015 Ambi R&amp;B" ProgramChange="14"/>
+<Patch Number="0016" Name="Dr:016 Ambi Dance 1" ProgramChange="15"/>
+<Patch Number="0017" Name="Dr:017 Ambi Dance 2" ProgramChange="16"/>
+<Patch Number="0018" Name="Dr:018 Ambi Dance 3" ProgramChange="17"/>
+<Patch Number="0019" Name="Dr:019 Ambi Pop 2" ProgramChange="18"/>
+<Patch Number="0020" Name="Dr:020 Ambi Dance 4" ProgramChange="19"/>
+<Patch Number="0021" Name="Dr:021 DanceMixKit" ProgramChange="20"/>
+<Patch Number="0022" Name="Dr:022 Nu India Kit" ProgramChange="21"/>
+<Patch Number="0023" Name="Dr:023 Indomix Kit" ProgramChange="22"/>
+<Patch Number="0024" Name="Dr:024 StudioKt1 DS" ProgramChange="23"/>
+<Patch Number="0025" Name="Dr:025 StudioKt2 DS" ProgramChange="24"/>
+<Patch Number="0026" Name="Dr:026 LatinDrmKit" ProgramChange="25"/>
+<Patch Number="0027" Name="Dr:027 Latin Menu1" ProgramChange="26"/>
+<Patch Number="0028" Name="Dr:028 Latin Menu2" ProgramChange="27"/>
+<Patch Number="0029" Name="Dr:029 Latin Menu3" ProgramChange="28"/>
+<Patch Number="0030" Name="Dr:030 LatinPerc'06" ProgramChange="29"/>
+<Patch Number="0031" Name="Dr:031 China Perc" ProgramChange="30"/>
+<Patch Number="0032" Name="Dr:032 Orch China" ProgramChange="31"/>
+<Patch Number="0033" Name="Dr:033 R&amp;B China" ProgramChange="32"/>
+<Patch Number="0034" Name="Dr:034 SonicCell XJ" ProgramChange="33"/>
+<Patch Number="0035" Name="Dr:035 Nu Tech XJ" ProgramChange="34"/>
+</PatchNameList>
+</PatchBank>
+<PatchBank Name="Drum Kits GM">
+    <MIDICommands>
+        <ControlChange Control="0" Value="120"/>
+        <ControlChange Control="32" Value="0"/>
+    </MIDICommands>
+<PatchNameList>
+<Patch Number="0001" Name="Dr:036 GM2 STANDARD" ProgramChange="0"/>
+<Patch Number="0002" Name="Dr:037 GM2 ROOM" ProgramChange="8"/>
+<Patch Number="0003" Name="Dr:038 GM2 POWER" ProgramChange="16"/>
+<Patch Number="0004" Name="Dr:039 GM2 ELECTRIC" ProgramChange="24"/>
+<Patch Number="0005" Name="Dr:040 GM2 ANALOG" ProgramChange="25"/>
+<Patch Number="0006" Name="Dr:041 GM2 JAZZ" ProgramChange="32"/>
+<Patch Number="0007" Name="Dr:042 GM2 BRUSH" ProgramChange="40"/>
+<Patch Number="0008" Name="Dr:043 GM2 ORCHSTRA" ProgramChange="48"/>
+<Patch Number="0009" Name="Dr:044 GM2 SFX" ProgramChange="56"/>
+</PatchNameList>
+</PatchBank>
+
 
 
     </ChannelNameSet>
